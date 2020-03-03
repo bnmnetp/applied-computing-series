@@ -19,7 +19,7 @@ templates_path = [
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Runestone Interactive Overview'
+project = 'Introduction to Google Sheets and SQL'
 
 version = '0.0.1'
 release = '0.0'
@@ -74,8 +74,8 @@ html_theme_path = [
         'common/project_template/_templates/plugin_layouts',
     )
 ]
-html_title = 'Runestone Interactive Overview'
-html_short_title = 'Runestone Interactive Overview'
+html_title = "Introduction to Google Sheets and SQL"
+html_short_title = "Introduction to Google Sheets and SQL"
 html_static_path = runestone_static_dirs() + ['./_static']
 html_show_copyright = False
 htmlhelp_basename = 'PythonCoursewareProjectdoc'
